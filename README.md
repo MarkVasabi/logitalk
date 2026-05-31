@@ -1,2 +1,2 @@
 # logitalk
-Well, chat. My first project, you need some more about information?
+Well, it's my first project, you need some more about information?
